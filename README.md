@@ -58,10 +58,11 @@ Shipment quantity allocated from each warehouse to each customer.
 
 ## Dashboard
 
-![Dashboard](Screenshot 2026-07-17 122123.png)
+![Dashboard](Dashboard.png)
 
 ---
 
 ## Distance Matrix
 
+![Distance Matrix](Distance_Matrix.png)
 ![Distance Matrix](Distance_Matrix.png)
