@@ -58,7 +58,7 @@ Shipment quantity allocated from each warehouse to each customer.
 
 ## Dashboard
 
-![Dashboard](Dashboard.png)
+![Dashboard](Screenshot 2026-07-17 122123.png)
 
 ---
 
